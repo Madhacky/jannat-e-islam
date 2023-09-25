@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503261558649",
+    "project_id": "jannat-e-islam",
+    "storage_bucket": "jannat-e-islam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503261558649:android:e05bb6fdb2cceffdac61a8",
+        "android_client_info": {
+          "package_name": "com.example.jannat_e_islam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxsKzs8EeaaVlK6vwLVNR0Z4jpk9OJstY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
